@@ -4,7 +4,7 @@
   >
     <div>
       <router-link class="logo font-bold text-xl tracking-tight" to="/"
-        >TheLogin</router-link
+        >The Login Page</router-link
       >
     </div>
     <div>
