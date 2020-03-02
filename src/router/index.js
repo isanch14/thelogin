@@ -26,7 +26,7 @@ const routes = [
   {
     path: '/private',
     name: 'Private',
-    component: Private,
+    component: Private
   }
 ]
 

@@ -1,12 +1,12 @@
 <template>
-    <div>
-        <h1>Private Page</h1>
-    </div>
+  <div>
+    <h1>Private Page</h1>
+  </div>
 </template>
 
 <script>
 export default {
-    name: 'Private'
+  name: 'Private'
 }
 </script>
 
